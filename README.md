@@ -12,7 +12,7 @@
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample Image
 
 
-    &emsp;&emsp;![Input Image](<Cell_Detection/Dataset/RBC_WBC-dataset/cells/images/val/image-23.png>) ![Annotated Label-Image](<Cell_Detection/Dataset/RBC_WBC-dataset/Sample annotated image/annotated_image-23.png>)
+    &emsp;&emsp;![Input Image](<image-23.png>) ![Annotated Label-Image](<annotated_image-23.png>)
 
 
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Input-Image&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Annotated-Labelled Image
