@@ -42,29 +42,11 @@
 
 ##  ***Cell Segmentation :***
 
--   ### **1. SAM Model**
--   ### **2. Yolov8-seg Model**
--   ### **3. Yolov5-det Model**
+-   ### **1. Yolov8-seg Model**
+-   ### **2. Yolov5-det Model**
 
 
-##  ***[SAM Model](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Image_Quantitative_Analysis/Segmentation/SAM-seg/SAM_seg.ipynb) :***
 
--  **[Segment Anything Model (SAM)](https://segment-anything.com/) : a new AI model from Meta AI that can "cut out" any object, in any image, with a single click
-SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training.**
-
--  **Chose this Model because of its Zero-Shot Generalization and its performance.**
-
--  **SAM without any training segmnented the cells and the results were very good except the fact that it didn't segment WBCs.**
-
--  **So, thought of custom training but it was a very heavy process. So, chose to go with ***Yolo Family***.**
-
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Images**
-
-
-    &emsp;&emsp;![Input Image](<Cell_Detection/Dataset/RBC_WBC-dataset/cells/images/train/image-1.png>) ![Segmented Output-Image](<Cell_Image_Quantitative_Analysis/Segmentation/SAM-seg/resized_segment_overlay.jpg>)
-
-
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Input-Image&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Segmented-Masked Image
   
 ##  ***[Yolov8-seg Model](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Image_Quantitative_Analysis/Segmentation/Yolov8-seg/Yolov8_seg.ipynb) :***
 
