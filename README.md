@@ -133,11 +133,6 @@ SAM is a promptable segmentation system with zero-shot generalization to unfamil
 -  ### Google Colab Link for each Jupyter Notebook which enables instant accessing of the files.
 
     -  ### ***[Cell_detect_Yolov5.ipynb](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Detection/Code/Cell_detect_Yolov5.ipynb)***
-
-    -  ###  ***[SAM_seg.ipynb](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Image_Quantitative_Analysis/Segmentation/SAM-seg/SAM_seg.ipynb)***
-
-    -  ###  ***[Yolov8_seg.ipynb](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Image_Quantitative_Analysis/Segmentation/Yolov8-seg/Yolov8_seg.ipynb)***
-
     -  ###  ***[yolov5_detseg.ipynb](https://colab.research.google.com/github/Rajaguhan437/Cell_Detect-Quantitative-Representation/blob/main/Cell_Image_Quantitative_Analysis/Quantitaive_Analysis/code/yolov5_detseg.ipynb)***
     
 
